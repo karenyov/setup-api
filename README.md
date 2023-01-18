@@ -1,2 +1,2 @@
-# setup-api
+# Setup API
 NLW Setup - API
